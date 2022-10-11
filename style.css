@@ -1,0 +1,18 @@
+._activeSE{
+    background-color: gray;
+    color: orange;
+}
+
+._activeNE{
+    background-color: #78ffff;
+    color: grey;
+}
+
+.zoomPlus{
+    margin: 280px 0;
+    transform: scale(2);
+}
+.zoomMinus{
+    margin: -130px -320px;
+    transform: scale(0.5);
+}
