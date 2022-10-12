@@ -1,4 +1,4 @@
-const sixthElem = document.getElementById('sixthElem');
+const sixthElem = document.getElementById('seventhElem');
 const nextElem = document.querySelector('.list__item');
 
 
