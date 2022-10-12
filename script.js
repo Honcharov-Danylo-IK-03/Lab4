@@ -1,4 +1,4 @@
-const sixthElem = document.getElementById('seventhElem');
+const sevenElem = document.getElementById('sevenElem');
 const nextElem = document.querySelector('.list__item');
 
 
@@ -9,8 +9,8 @@ const zoom = document.getElementById('buttonZoom1');
 const unZoom = document.getElementById('buttonZoom2');
 const deleteButton = document.getElementById('buttonDelete');
 
-sixthElem.addEventListener('click', () => {
-  sixthElem.classList.toggle('_activeSE');
+sevenElem.addEventListener('click', () => {
+  sevenElem.classList.toggle('_activeSE');
 })
 
 nextElem.addEventListener('click', () => {
